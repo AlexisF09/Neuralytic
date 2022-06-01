@@ -704,6 +704,13 @@ section {
   color: #37517e;
   font-family: "Poppins", sans-serif;
 }
+.skills .content h4 {
+  font-weight: 700;
+  font-size: 24px;
+  color: #37517e;
+  font-family: "Poppins", sans-serif;
+}
+
 .skills .content ul {
   list-style: none;
   padding: 0;
@@ -943,7 +950,13 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
+ 
 }
+.portfolio-details .portfolio-info h2 {
+  color: #37517e;
+ 
+}
+
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
@@ -959,6 +972,7 @@ section {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
+   
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
